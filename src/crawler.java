@@ -1,6 +1,8 @@
-public class Crawler{
+package crawlers;
+
+interface Crawler{
   //some trial method
-  void crawl(){
+  public void crawl(){
     return null;
   }
 }
