@@ -1,5 +1,3 @@
-package crawlers;
-
 interface Crawler{
   //some trial method
   public void crawl(){
